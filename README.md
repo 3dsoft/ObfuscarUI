@@ -1,3 +1,8 @@
+﻿# Obfuscar
+
+https://github.com/lextm/obfuscar
+
+
 # ObfuscarUI
 
 Obfuscar.Console.exe를 VS와 별도로 사용하기 위한 단순 UI입니다.
@@ -16,6 +21,6 @@ Obfuscar.Console.exe를 VS와 별도로 사용하기 위한 단순 UI입니다.
 
 
 
-* Test 프로젝트는 난독화를 테스트하기 위해 임의로 만든 프로젝트입니다.
+* Test1 프로젝트는 난독화를 테스트하기 위해 임의로 만든 프로젝트입니다.
 
 삭제해도 무방합니다.
