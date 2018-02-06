@@ -1,0 +1,4 @@
+<?xml version='1.0'?>
+<Obfuscator >
+<Var name = "OutPath" value = "D:\Project\ObfuscarUI\Test1\bin\Debug\11" /><Module file = "D:\Project\ObfuscarUI\Test1\bin\Debug\Test1.exe" />
+</Obfuscator >

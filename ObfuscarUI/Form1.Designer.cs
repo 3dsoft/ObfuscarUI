@@ -51,13 +51,13 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.txtOutputPath.Location = new System.Drawing.Point(79, 147);
             this.txtOutputPath.Name = "txtOutputPath";
-            this.txtOutputPath.Size = new System.Drawing.Size(452, 21);
+            this.txtOutputPath.Size = new System.Drawing.Size(471, 21);
             this.txtOutputPath.TabIndex = 0;
             // 
             // btnAdd
             // 
             this.btnAdd.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnAdd.Location = new System.Drawing.Point(537, 27);
+            this.btnAdd.Location = new System.Drawing.Point(556, 27);
             this.btnAdd.Name = "btnAdd";
             this.btnAdd.Size = new System.Drawing.Size(75, 30);
             this.btnAdd.TabIndex = 1;
@@ -74,7 +74,7 @@
             this.listboxFiles.ItemHeight = 12;
             this.listboxFiles.Location = new System.Drawing.Point(79, 27);
             this.listboxFiles.Name = "listboxFiles";
-            this.listboxFiles.Size = new System.Drawing.Size(452, 100);
+            this.listboxFiles.Size = new System.Drawing.Size(471, 100);
             this.listboxFiles.TabIndex = 2;
             // 
             // label1
@@ -98,7 +98,7 @@
             // btnOutputPath
             // 
             this.btnOutputPath.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnOutputPath.Location = new System.Drawing.Point(537, 144);
+            this.btnOutputPath.Location = new System.Drawing.Point(556, 144);
             this.btnOutputPath.Name = "btnOutputPath";
             this.btnOutputPath.Size = new System.Drawing.Size(75, 26);
             this.btnOutputPath.TabIndex = 5;
@@ -112,7 +112,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.btnRun.Location = new System.Drawing.Point(79, 195);
             this.btnRun.Name = "btnRun";
-            this.btnRun.Size = new System.Drawing.Size(452, 46);
+            this.btnRun.Size = new System.Drawing.Size(471, 46);
             this.btnRun.TabIndex = 6;
             this.btnRun.Text = "Run";
             this.btnRun.UseVisualStyleBackColor = true;
@@ -136,7 +136,7 @@
             this.groupBox1.Controls.Add(this.listboxFiles);
             this.groupBox1.Location = new System.Drawing.Point(12, 5);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(629, 475);
+            this.groupBox1.Size = new System.Drawing.Size(648, 475);
             this.groupBox1.TabIndex = 7;
             this.groupBox1.TabStop = false;
             // 
@@ -150,7 +150,7 @@
             this.listBox1.ItemHeight = 12;
             this.listBox1.Location = new System.Drawing.Point(79, 251);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(452, 196);
+            this.listBox1.Size = new System.Drawing.Size(471, 196);
             this.listBox1.TabIndex = 7;
             // 
             // openFileDialog1
@@ -162,7 +162,7 @@
             // btnExcept
             // 
             this.btnExcept.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnExcept.Location = new System.Drawing.Point(537, 63);
+            this.btnExcept.Location = new System.Drawing.Point(556, 63);
             this.btnExcept.Name = "btnExcept";
             this.btnExcept.Size = new System.Drawing.Size(75, 30);
             this.btnExcept.TabIndex = 8;
@@ -173,7 +173,7 @@
             // btnClear
             // 
             this.btnClear.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnClear.Location = new System.Drawing.Point(537, 99);
+            this.btnClear.Location = new System.Drawing.Point(556, 99);
             this.btnClear.Name = "btnClear";
             this.btnClear.Size = new System.Drawing.Size(75, 30);
             this.btnClear.TabIndex = 9;
@@ -184,7 +184,7 @@
             // btnOpen
             // 
             this.btnOpen.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnOpen.Location = new System.Drawing.Point(537, 251);
+            this.btnOpen.Location = new System.Drawing.Point(556, 251);
             this.btnOpen.Name = "btnOpen";
             this.btnOpen.Size = new System.Drawing.Size(75, 35);
             this.btnOpen.TabIndex = 10;
@@ -196,7 +196,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(653, 490);
+            this.ClientSize = new System.Drawing.Size(672, 490);
             this.Controls.Add(this.groupBox1);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
